@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Genera1Developer
+- 👀 I’m interested in HTML, CSS, and Python
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on small scale projects
+- 📫 How to reach me: wanted.glitch@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I love to play paintball
