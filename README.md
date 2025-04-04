@@ -3,3 +3,7 @@
 </br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Genera1Developer&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
+
+</br>
+
+[![How did you fuck up a readme???](https://github-readme-streak-stats.herokuapp.com?user=Genera1Developer&theme=radical)](https://git.io/streak-stats)
